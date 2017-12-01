@@ -178,6 +178,7 @@ header .header-login a:hover{
 	padding: 10px 10%; 
 	border: 3px solid #D59152;
 	border-radius: 40px;
+	background-color: #FFFFFF;
 }
 
 @media (min-width: 780px){
