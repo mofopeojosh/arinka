@@ -80,7 +80,7 @@ header .menu-mobile{
 header .menu-mobile i{
 	padding: 5px;
   cursor: pointer;
-  display: inline-block;
+  display: block;
   position: relative;
   user-select: none;
 }
@@ -301,7 +301,7 @@ header .header-login a:hover{
 }
 .blog .blog-text{
 	flex: 1; 
-	margin-left: 30px;
+	margin-left: 15px;
 	z-index: 10;
 }
 .blog .skewed{
